@@ -14,15 +14,15 @@ Currently, Halifax’s strategy emphasizes supply-side reforms. In mid-2024, the
 
 ## Key Stakeholders:
 1. Low-income renters
- * Households already facing affordability pressures who are most vulnerable to rent increases and limited housing availability.
+   * Households already facing affordability pressures who are most vulnerable to rent increases and limited housing availability.
 2. Property Owners and Landlords
- *Owners of residential properties who could face new taxes, reporting requirements, or financial incentives depending on the policy adopted.
+   * Owners of residential properties who could face new taxes, reporting requirements, or financial incentives depending on the policy adopted.
 3. Real estate developers
-   *Firms involved in housing construction who may benefit from municipal investment in new projects but could also face changing market conditions if vacant units enter the rental market.
+   * Firms involved in housing construction who may benefit from municipal investment in new projects but could also face changing market conditions if vacant units enter the rental market.
 4. Halifax Regional Municipality
-   *The municipality bears responsibility for policy design, enforcement, and financial management. The decision affects administrative capacity, public finances, and political accountability.
+   * The municipality bears responsibility for policy design, enforcement, and financial management. The decision affects administrative capacity, public finances, and political accountability.
 5. Individuals experiencing homelessness
-   *This group represents the most severe consequence of the housing shortage. Expanding affordable or available housing stock is critical to reducing homelessness levels.
+   * This group represents the most severe consequence of the housing shortage. Expanding affordable or available housing stock is critical to reducing homelessness levels.
 6. Non-Profit Housing Providers
    * (e.g., North End Community Health Centre, Adsum) who rely on direct funding to build and manage units.
 
