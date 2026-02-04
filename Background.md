@@ -31,3 +31,11 @@ Currently, Halifax’s strategy emphasizes supply-side reforms. In mid-2024, the
 * Halifax Partnership. (2025, June 18). Halifax real estate – Housing, construction, and commercial property.[HalifaxPartnership](https://halifaxpartnership.com/research-strategy/halifax-index/real-estate/)
 * Helio Urban Development. (2025, June 27). Halifax population growth vs housing supply. [HelioUrbanDevelopment](https://www.heliourbandevelopment.com/blog/halifax-population-growth-vs-housing-supply/)
 * iSure. (2025, March 17). Vacant home tax in Ontario: What is the impact on homeowners? [iSure](https://isure.ca/inews/vacant-home-tax/)
+
+
+### Datasets: 
+
+1. HRM Open Data: Property Assessment and Tax History. [HRM Tax Bill Info](https://data-hrm.hub.arcgis.com/datasets/hrm-tax-bill-info)
+2. CMHC: Rental Market Survey (Halifax CMA). [Rental Market Survey](https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/rental-market/rental-market-report-data-tables)
+3. LEMR: Low-End Market Rental Housing Monitor. [Halifax Housing Data Map](https://lemr.ca/data-maps/halifax/)
+4. Halifax Real Estate & Housing Index. [Halifax Real Estate & Housing Index](https://halifaxpartnership.com/research-strategy/halifax-index/real-estate/)
