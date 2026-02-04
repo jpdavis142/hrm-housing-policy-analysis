@@ -1,2 +1,2 @@
-# Halifax Housing Policy Analysis: Vacant Tax or Direct Funding?
-Modeling the trade-offs between regulatory tax penalties and supply-side investments to address housing supply and affordability in the Halifax Regional Municipality.
+# Halifax Housing Policy Analysis: Vacant Tax or Direct Funding
+## Should the Halifax Regional Council implement a Vacant Property Tax to discourage property owners from leaving units empty, or use municipal resources to directly fund new affordable housing construction projects?
