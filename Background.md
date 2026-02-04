@@ -26,3 +26,8 @@ Currently, Halifax’s strategy emphasizes supply-side reforms. In mid-2024, the
 6. Non-Profit Housing Providers
    * (e.g., North End Community Health Centre, Adsum) who rely on direct funding to build and manage units.
 
+### References:
+* CBC News. (2024, December 17). Halifax's apartment vacancy rate rose above 2% in 2024 as rent growth slows.[CBCNews](https://www.cbc.ca/news/canada/nova-scotia/halifax-s-apartment-vacancy-rate-rose-above-2-in-2024-as-rent-growth-slows-1.7412375)
+* Halifax Partnership. (2025, June 18). Halifax real estate – Housing, construction, and commercial property.[HalifaxPartnership](https://halifaxpartnership.com/research-strategy/halifax-index/real-estate/)
+* Helio Urban Development. (2025, June 27). Halifax population growth vs housing supply. [HelioUrbanDevelopment](https://www.heliourbandevelopment.com/blog/halifax-population-growth-vs-housing-supply/)
+* iSure. (2025, March 17). Vacant home tax in Ontario: What is the impact on homeowners? [iSure](https://isure.ca/inews/vacant-home-tax/)
