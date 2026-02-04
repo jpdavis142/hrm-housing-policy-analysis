@@ -9,3 +9,5 @@ This decision matters because it represents a fundamental choice in municipal st
 
 
  ![Housing Analysis CLD ](CLD.png)
+
+### This causal loop diagram shows how a vacant property tax influences housing supply through multiple feedback effects. One reinforcing loop occurs when higher tax rates increase municipal revenue, which allows the city to fund more affordable housing construction. Those new units increase the total rental housing supply, strengthening the long-term impact of the policy on expanding available housing. At the same time, there are balancing effects. Higher taxes reduce the number of vacant units by encouraging owners to rent them out, which increases supply and helps ease pressure on rents. However, the tax may also reduce developer investment interest, slowing private housing construction and limiting supply growth. The overall outcome depends on whether the public funding and vacancy reduction effects are stronger than the slowdown in private development.
