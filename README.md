@@ -8,4 +8,4 @@ This decision matters because it represents a fundamental choice in municipal st
  With Halifax holding one of the highest poverty rates among its peer cities, the Council's choice will determine if the municipality remains accessible to low-income workers and students who are the backbone of the local economy. This analysis aims to provide a data-driven framework to help the Housing Minister navigate these trade-offs and select the path that offers the greatest benefit to the community.
 
 
- ![Housing Analysis CLD ]
+ ![Housing Analysis CLD ](cld.png)
