@@ -10,3 +10,8 @@ The alternative policy of direct municipal investment in affordable housing cons
 A range of stakeholders has vested interests in the outcome of this decision. Low-income renters and individuals experiencing homelessness are directly affected by affordability pressures and availability constraints. Property owners and landlords would face new tax obligations and compliance requirements under a vacant property tax regime. Real estate developers could benefit from increased municipal investment but may also experience market disruption from the introduction of newly available units. Municipal taxpayers would ultimately fund housing initiatives either through tax revenues or direct investment, and local businesses rely on stable housing to attract and retain employees.
 
 Currently, Halifax’s strategy emphasizes supply-side reforms. In mid-2024, the municipality implemented planning amendments to permit up to four units on virtually any residential lot within serviced urban areas and up to eight units on larger lots in central neighborhoods, supported by participation in the federal Housing Accelerator Fund. However, Halifax has not yet adopted a vacant property tax, focusing instead on enabling new construction while underutilized units remain vacant even as some landlords offer incentives such as free rent to attract tenants. 
+
+
+## Key Stakeholders:
+1. Low-income renters
+* Households already facing affordability pressures who are most vulnerable to rent increases and limited housing availability.
