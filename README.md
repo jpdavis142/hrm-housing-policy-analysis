@@ -8,6 +8,6 @@ This decision matters because it represents a fundamental choice in municipal st
  With Halifax holding one of the highest poverty rates among its peer cities, the Council's choice will determine if the municipality remains accessible to low-income workers and students who are the backbone of the local economy. This analysis aims to provide a data-driven framework to help the Housing Minister navigate these trade-offs and select the path that offers the greatest benefit to the community.
 
 
- ![Housing Analysis CLD ](CLD.png)
+ ![Housing Analysis CLD ](img/CLD.png)
 
 ### This causal loop diagram shows how a vacant property tax influences housing supply through multiple feedback effects. One reinforcing loop occurs when higher tax rates increase municipal revenue, which allows the city to fund more affordable housing construction. Those new units increase the total rental housing supply, strengthening the long-term impact of the policy on expanding available housing. At the same time, there are balancing effects. Higher taxes reduce the number of vacant units by encouraging owners to rent them out, which increases supply and helps ease pressure on rents. However, the tax may also reduce developer investment interest, slowing private housing construction and limiting supply growth. The overall outcome depends on whether the public funding and vacancy reduction effects are stronger than the slowdown in private development.
